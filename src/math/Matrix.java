@@ -1,4 +1,4 @@
-import MatrixGenerator.*;
+package math;
 
 public class Matrix{
 	private MatrixGenerator matrix = new MatrixGenerator();
